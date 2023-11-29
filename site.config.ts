@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: 'PIC-2f686bc341b643b2bc5cd2db34eca8bd?pvs=4',
+  rootNotionPageId: 'Deployments-of-PIC-simulation-in-clusters-2f686bc341b643b2bc5cd2db34eca8bd?pvs=4',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Deployments of PIC simulation in cluster',
-  domain: 'https://frosted-almandine-a72.notion.site/PIC-2f686bc341b643b2bc5cd2db34eca8bd?pvs=4',
+  domain: 'https://xiangtangsnst.notion.site/Deployments-of-PIC-simulation-in-clusters-2f686bc341b643b2bc5cd2db34eca8bd?pvs=4',
   author: 'Xiang TANG',
 
   // open graph metadata (optional)
